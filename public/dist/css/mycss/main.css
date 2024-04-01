@@ -1,0 +1,8 @@
+.auth-wrapper {
+    height: 100vh !important;
+}
+
+.filepond--root .filepond--drop-label {
+    min-height: 40px !important;
+    background-color: #ecb9b9b3;
+}
